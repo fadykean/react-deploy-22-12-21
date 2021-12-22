@@ -1,0 +1,26 @@
+:root {
+  --primary: #00a9d6;
+}
+
+.startforfree-btn {
+  padding: 8px 2px;
+  border-radius: 10px;
+  width: 135px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background-color: var(--primary);
+}
+
+.login-btn {
+  padding: 8px 20px; 
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  color: #444652;
+  cursor: pointer;
+  background-color: #fff;
+}

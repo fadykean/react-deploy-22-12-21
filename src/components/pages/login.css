@@ -1,0 +1,135 @@
+.wrap {
+  background-color: white;
+  height: 700px;
+  width: 100%;
+  border: wheat solid 3px;
+}
+
+
+.namee {
+  display: flex;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  
+}
+.namee > input {
+  padding: 5px 5px;
+  width: 50%;
+  margin: 10px 15px 10px 15px;
+  border-radius: 15pt;
+  height: 50px;
+  font-size: 15px;
+ 
+}
+
+.pass {
+  
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+}
+.pass > input {
+  padding: 5px 5px;
+width: 50%;
+margin: 10px 15px 10px 15px;
+border-radius: 15pt;
+height: 50px;
+font-size: 15px;
+}
+.info{
+ display: flex;
+padding: 5px;
+justify-content: center;
+align-items: center;
+}
+
+.age {
+  padding: 5px 5px;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  font-size: 15px;
+  margin: 10px 15px 10px 15px;
+}
+.phone {
+  padding: 5px 5px;
+  width: 27%;
+  margin: 10px 15px 10px 15px;
+  border-radius: 15pt;
+  font-size: 15px;
+  height: 50px;
+}
+
+.selected {
+ padding: 5px 5px;
+ width: 50%;
+ margin: 10px 15px 10px 15px;
+ border-radius: 15pt;
+ height: 50px;
+ font-size: 15px;
+ 
+}
+
+.email {
+  /* width: 90%; */
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+
+}
+.mail {
+  padding: 5px 5px;
+width: 100%;
+margin: 10px 15px 10px 15px;
+border-radius: 15pt;
+font-size: 15px;
+height: 50px;
+}
+
+.yourself {
+  display: grid;
+  padding: 10px;
+  margin: 5px 5px;
+}
+.about{
+font-size: 18px;
+}
+.story{
+  margin: 10px 15px 10px 15px;
+border-radius: 15pt;
+font-size: 15px;
+padding: 5px 5px;
+}
+.btn-btn{
+  display: flex;
+padding: 5px;
+margin: 5px;
+}
+.lin{
+  background-color: blue;
+  padding: 5px 5px;
+  width: 50%;
+  margin: 10px 15px 10px 15px;
+  border-radius: 15pt;
+  height: 50px;
+  font-size: 15px;
+  
+}
+.sfree{
+background-color: blueviolet;
+padding: 5px 5px;
+width: 50%;
+margin: 10px 15px 10px 15px;
+border-radius: 15pt;
+height: 50px;
+font-size: 15px;
+
+}
+.agree{
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+  justify-content: center;
+
+}

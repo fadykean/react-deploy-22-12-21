@@ -1,0 +1,8 @@
+.product-list{
+    display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap: 15px;
+ max-height:90vh ;
+ /* overflow: auto; */
+   /* grid-template-rows: repeat(auto-fill,250px); */
+}

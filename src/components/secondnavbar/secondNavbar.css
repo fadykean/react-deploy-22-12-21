@@ -1,0 +1,62 @@
+.sNav {
+  font-size: 16px;
+  width: 100px;
+  height: 22px;
+  color: #008db2;
+  /* color: #000; */
+  flex-direction: row;
+  margin: 2px 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  background: #fff;
+  letter-spacing: 0;
+
+  /* background: #000; */
+}
+/* .container a.active  { */
+  /* font-size: 16px; */
+  /* width: 100px; */
+  /* height: 22px; */
+  /* color: #008db2; */
+  /* flex-direction: row; */
+  /* margin: 2px 15px; */
+  /* border-radius: 10px; */
+  /* text-decoration: none; */
+  /* background: #fff; */
+  /* letter-spacing: 0; */
+/*  */
+  /* background: #000; */
+/* } */
+.container {
+  left: 245px;
+  /* background-color: #0000000a; */
+}
+.line{
+ color: #f2f2f2;
+ height: 22px;
+ margin: 0 10px 0 15px;
+}
+.back {
+  display: inline-flex;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}
+.second-navbar {
+  background-color: #fff;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  justify-content: start;
+}
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600|Titillium+Web:400,600");

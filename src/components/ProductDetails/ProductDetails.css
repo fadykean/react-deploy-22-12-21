@@ -1,0 +1,101 @@
+.product-details .container > div {
+  margin-bottom: 10px;
+}
+.container {
+  padding: 15px;
+}
+.product-details {
+  width: 100%;
+}
+.img {
+  width: 100%;
+  border-radius: 0px;
+}
+
+.header,
+.product-details {
+  justify-content: space-between;
+}
+.footer {
+  flex-direction: row;
+  display: flex;
+}
+.footer > div {
+  padding: 5px;
+}
+.information {
+  width: 500pt;
+  height: 167pt;
+  background-color: #fff;
+  padding-top: 17px;
+}
+.headInfo {
+  display: flex;
+  flex-direction: row;
+}
+.headInfo > img,
+h1 {
+  margin-left: 10px;
+}
+.zooom {
+  margin-left: 260px;
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+}
+.input {
+  width: 235pt;
+  height: 25pt;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.moreDetails {
+  color: #ffffff;
+  background-color: #008db2;
+  border-radius: 10pt;
+  text-decoration: none;
+  padding: 8px 12px;
+  height: 25pt;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.helpInfo > p {
+  margin-top: 10px;
+  color: #444652;
+}
+.neighborhood-details-img {
+  height: 120px;
+  width: 170px;
+}
+.zoom {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+  justify-content: space-between;
+}
+.userImg {
+  height: 50px;
+  width: 50px;
+}
+
+.icon {
+  width: 15px;
+  height: 15px;
+  margin-right: 2px;
+}
+
+.bedrooms span {
+  margin-right: 4px;
+}
+
+.card {
+  padding: 10px;
+  width: 105px;
+  margin: 7px;
+}
+
+.card .icon {
+  width: 30px;
+  height: 30px;
+}

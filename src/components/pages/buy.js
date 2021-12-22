@@ -1,0 +1,27 @@
+import React, { useEffect, useState } from 'react';
+import "./style/buy.css";
+import UserList from '../../components/UserList/UserList';
+import ProductList from '../../components/ProductList/ProductList';
+import { useDispatch, useSelector } from 'react-redux';
+import { loadUsers } from '../../store/actions/userActions';
+import { setIsHomePage } from '../../store/actions/settingAction';
+
+export default function Buy() {
+  const products = useSelector((state) => state.productReducer.products);
+  const users = useSelector((state) => state.userReducer.users);
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(loadUsers());
+    dispatch(setIsHomePage(true));
+    return () => {
+      dispatch(setIsHomePage(false));
+    };
+  }, []);
+  return (
+    <div>
+      <UserList users={users} />
+      <ProductList products={products} />
+    </div>
+  );
+}
+
