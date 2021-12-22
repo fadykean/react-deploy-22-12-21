@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-deploy-22-12-21/static/css/main.36a7b080.chunk.css",
+    "main.js": "/react-deploy-22-12-21/static/js/main.d403ab4f.chunk.js",
+    "main.js.map": "/react-deploy-22-12-21/static/js/main.d403ab4f.chunk.js.map",
+    "runtime-main.js": "/react-deploy-22-12-21/static/js/runtime-main.a1ae82be.js",
+    "runtime-main.js.map": "/react-deploy-22-12-21/static/js/runtime-main.a1ae82be.js.map",
+    "static/css/2.d9c6ee88.chunk.css": "/react-deploy-22-12-21/static/css/2.d9c6ee88.chunk.css",
+    "static/js/2.5bdd0a29.chunk.js": "/react-deploy-22-12-21/static/js/2.5bdd0a29.chunk.js",
+    "static/js/2.5bdd0a29.chunk.js.map": "/react-deploy-22-12-21/static/js/2.5bdd0a29.chunk.js.map",
+    "index.html": "/react-deploy-22-12-21/index.html",
+    "precache-manifest.798c2b53c59aad65fda0e7c2857e4f53.js": "/react-deploy-22-12-21/precache-manifest.798c2b53c59aad65fda0e7c2857e4f53.js",
+    "service-worker.js": "/react-deploy-22-12-21/service-worker.js",
+    "static/css/2.d9c6ee88.chunk.css.map": "/react-deploy-22-12-21/static/css/2.d9c6ee88.chunk.css.map",
+    "static/css/main.36a7b080.chunk.css.map": "/react-deploy-22-12-21/static/css/main.36a7b080.chunk.css.map",
+    "static/js/2.5bdd0a29.chunk.js.LICENSE.txt": "/react-deploy-22-12-21/static/js/2.5bdd0a29.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/react-deploy-22-12-21/static/media/1.e5c3d16a.jpg",
+    "static/media/2.jpg": "/react-deploy-22-12-21/static/media/2.0ad4faad.jpg",
+    "static/media/3.jpg": "/react-deploy-22-12-21/static/media/3.fa3a8028.jpg",
+    "static/media/back.4defd52d.svg": "/react-deploy-22-12-21/static/media/back.4defd52d.svg",
+    "static/media/call.png": "/react-deploy-22-12-21/static/media/call.bc2a5563.png",
+    "static/media/chat.png": "/react-deploy-22-12-21/static/media/chat.e8bf29d1.png",
+    "static/media/hat.923ad7aa.svg": "/react-deploy-22-12-21/static/media/hat.923ad7aa.svg",
+    "static/media/App.css": "/react-deploy-22-12-21/static/media/img-7.66001cf8.jpg",
+    "static/media/location.png": "/react-deploy-22-12-21/static/media/location.11abdde0.png",
+    "static/media/medical.3e4d0fcb.svg": "/react-deploy-22-12-21/static/media/medical.3e4d0fcb.svg",
+    "static/media/restaurant.f3f6013c.svg": "/react-deploy-22-12-21/static/media/restaurant.f3f6013c.svg",
+    "static/media/styles.css": "/react-deploy-22-12-21/static/media/revicons.2feb69cc.eot",
+    "static/media/shopping.684bc7bb.svg": "/react-deploy-22-12-21/static/media/shopping.684bc7bb.svg",
+    "static/media/star.301bd130.svg": "/react-deploy-22-12-21/static/media/star.301bd130.svg",
+    "static/media/star_outline.d14b3ebd.svg": "/react-deploy-22-12-21/static/media/star_outline.d14b3ebd.svg",
+    "static/media/user.jpeg": "/react-deploy-22-12-21/static/media/user.9f8c00f9.jpeg",
+    "static/media/zoom.png": "/react-deploy-22-12-21/static/media/zoom.f394da7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1ae82be.js",
+    "static/css/2.d9c6ee88.chunk.css",
+    "static/js/2.5bdd0a29.chunk.js",
+    "static/css/main.36a7b080.chunk.css",
+    "static/js/main.d403ab4f.chunk.js"
+  ]
+}
